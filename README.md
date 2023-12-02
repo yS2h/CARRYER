@@ -17,7 +17,7 @@
 
 - <b>팀 이름</b> : GET IT TOGETHER
 
-- 멤버 구성
+- <b>멤버 구성</b>
 > 윤수현: 팀장, UX 기획, UI디자인, Flutter 개발, 리드미 작성
 
 > 박민성: UX 기획, 발표 자료 제작, Flutter 개발, 발표
