@@ -4,24 +4,30 @@
 
 ## 목차
   - [개요](#개요) 
+
   - [프로젝트 설명](#프로젝트-설명)
+
   - [어플 설명](#어플-설명)
+
   - [코드 설명](#코드-설명)
 
 ## 개요
 
 - <b>프로젝트 이름</b>: CARRYER 
+
 - <b>팀 이름</b> : GET IT TOGETHER
-- <b>개발 엔진 및 언어</b>: Flutter & dart
 
-<h4> 🤍 멤버 구성
+- 멤버 구성
+> 윤수현: 팀장, UX 기획, UI디자인, Flutter 개발, 리드미 작성
 
-- 윤수현: 팀장, UX 기획, UI디자인, Flutter 개발, 리드미 작성
-- 박민성: UX 기획, 발표 자료 제작, Flutter 개발, 발표
-- 박석현: UX 기획, Flutter 개발, 사업 계획서 작성
-- 배민중: UX 기획, Figma 프로토타입 제작, 사업 계획서 작성
+> 박민성: UX 기획, 발표 자료 제작, Flutter 개발, 발표
+
+> 박석현: UX 기획, Flutter 개발, 사업 계획서 작성
+
+> 배민중: UX 기획, Figma 프로토타입 제작, 사업 계획서 작성
 
 ## 프로젝트 설명
+
 <b> 취업 준비생에게 맞춤형 현직자 멘토를 연결해주는 어플리케이션 </b>
 
 <h3> 문제 </h3>
@@ -39,6 +45,7 @@ Carryer는 취업 정보의 접근성을 높일 수 있을 것입니다. 이를 
 
 
 ## 어플 설명
+
 <Align center>![image](https://github.com/yS2h/CARRYER/assets/141344997/c3848d4e-34c8-456c-a890-9a3f4afc7b6c) </Align>
 
  <b> Carryer는 취업 준비생에게 맞춤형 현직자 멘토를 연결해주는 어플리케이션입니다. </b> 
@@ -57,7 +64,9 @@ Carryer는 취업 정보의 접근성을 높일 수 있을 것입니다. 이를 
 
  ## 코드 설명
 
- main 기준으로 4페이지로 이동하도록 구현하였습니다.
+- <b>개발 엔진 및 언어</b>: Flutter & dart
+
+ main에서 각각의 페이지(총 4개의 페이지 - mentor, information, community, store)로 이동하도록 구현하였습니다.
 
  <h4> main </h4>
 
@@ -69,6 +78,6 @@ Carryer는 취업 정보의 접근성을 높일 수 있을 것입니다. 이를 
  <h4> 각각의 페이지 </h4>
 
  ![image](https://github.com/yS2h/CARRYER/assets/141344997/8393ad93-c425-4648-9aad-a0c200417d9f)
- - <samll> searchController 활용
+ - <small> searchController 활용
 
  검색창에 글씨를 입력해 넣는 것까지 구현 </small>
