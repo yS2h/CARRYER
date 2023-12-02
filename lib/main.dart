@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'mentor.dart';
-import 'infor.dart';
+import 'information.dart';
 import 'community.dart';
 import 'store.dart';
 
@@ -25,10 +25,10 @@ class MyPage extends StatefulWidget {
 class _MyPageState extends State<MyPage> {
   int currentIndex = 0;
   final screens = [
-    mentor(),
-    infor(),
-    community(),
-    store(),
+    MentorPage(),
+    InformationPage(),
+    CommunityPage(),
+    StorePage(),
   ];
   Widget build(BuildContext context) {
     return Scaffold(
