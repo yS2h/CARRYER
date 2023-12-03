@@ -11,6 +11,8 @@
 
   - [코드 설명](#코드-설명)
 
+  - [로컬 실행](#로컬-실행)
+
 ## 개요
 
 - <b>프로젝트 이름</b>: CARRYER 
@@ -81,3 +83,15 @@ Carryer는 취업 정보의 접근성을 높일 수 있을 것입니다. 이를 
  - <small> searchController 활용
 
  검색창에 글씨를 입력해 넣는 것까지 구현 </small>
+
+ ## 로컬 실행
+ <small> (본 설명은 vscode 기준으로 기재하였습니다.) </small>
+
+1) Flutter 플러그인 설치
+ ![image](https://github.com/yS2h/CARRYER/assets/141344997/776c27e1-0bfe-41d8-b55b-827742a1dafa)
+
+ 2. CARRYER 레포지토리 zip 파일로 다운 후 압축 해제
+
+ 3. lib 폴더의 main.dart 실행 
+ 
+ <small> 모바일 화면으로 띄우고 싶은 경우에는 별도의 에뮬레이터 설치가 필요합니다. 
